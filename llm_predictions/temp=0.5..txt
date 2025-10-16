@@ -1,0 +1,103 @@
+Top-1 Accuracy (ACC): 0.2855
+Mean Precision:       0.9157
+Mean Recall:          0.8581
+Mean F1 (Fuzziness):  0.8810
+
+Words for which F1-score < 0.5:
+Hindi: एनसीआरडब्ल्यूसी      Gold: enseeaardablyusee    Pred: NCRWCS         
+Hindi: डीडब्ल्यूएन          Gold: deedablyuen          Pred: DWN            
+Hindi: एचजेडटीसी            Gold: echajedateesee       Pred: HZTC           
+Hindi: पीडब्ल्यूआईडी        Gold: pwid                 Pred: peedabliyuaiidi
+Hindi: ईडब्लूएस             Gold: ews                  Pred: idabliuyes     
+Hindi: पीडब्ल्यूआईडी        Gold: peedablyooaaidee     Pred: PWDID          
+Hindi: यूजी                 Gold: ug                   Pred: yuji           
+Hindi: एनडब्ल्यूसी          Gold: endablyoosee         Pred: NWC            
+Hindi: एआईआरटीयू            Gold: eaaiaartiyoo         Pred: AIRTU          
+Hindi: एलऐंडटी              Gold: elendtee             Pred: L&T            
+Hindi: आईआरपीटीसी           Gold: aaeeaarpitisi        Pred: IRPTC          
+Hindi: बीआईआईटीएम           Gold: beeaaeeaaeeteeem     Pred: BIITM          
+Hindi: एनडब्ल्यूसी          Gold: endablyusee          Pred: NWC            
+Hindi: सीडब्ल्यूएस          Gold: cws                  Pred: seedabalyoodabelyuess
+Hindi: डब्ल्यूपीडी          Gold: dablyoopeedee        Pred: WPD            
+Hindi: आईआरपीटीसी           Gold: aaiaarpitisi         Pred: IRPTC          
+Hindi: लियोपाम              Gold: liyopam              Pred: English transliterations:
+Hindi: डब्ल्यूएचएल          Gold: dablyooechel         Pred: Liopam         
+Hindi: दमपर                 Gold: damapar              Pred: WHL            
+Hindi: खातूटोला             Gold: khaatootola          Pred: Dampar         
+Hindi: प्रवृत्तीयों         Gold: prawrittiyon         Pred: Chaita         
+Hindi: किरणे                Gold: kirne                Pred: Pravrittiyon   
+Hindi: बढना                 Gold: badhanaa             Pred: Dharmnirpekshatake
+Hindi: पूर्वाभाद्रपद        Gold: poorvaabhaadrapad    Pred: Nikhrega       
+Hindi: फुरामे               Gold: furaame              Pred: Air Conditioner
+Hindi: राजस्थानवासियों      Gold: raajsthanvasiyon     Pred: Furame         
+Hindi: पीडब्ल्यूटी          Gold: peedablyootee        Pred: Saikadon       
+Hindi: प्रतिपालपुर          Gold: pratipalpur          Pred: PWT            
+Hindi: एनआरडीडब्ल्यूपी      Gold: nrdwp                Pred: Pratipalpur    
+Hindi: गालीगलौज             Gold: gaaligalauj          Pred: NRDWP          
+Hindi: हाब्बन               Gold: haabban              Pred: Gali Galauj    
+Hindi: एनसीआरडब्ल्यूसी      Gold: enseeaardablyoosee   Pred: Habban         
+Hindi: सुरक्षाः             Gold: surakshaah           Pred: NCRWC          
+Hindi: टेकेंगे              Gold: tekenge              Pred: Vishw Rakt     
+Hindi: फालिया               Gold: phaliya              Pred: Kya            
+Hindi: अष्टमूर्तियाँ        Gold: ashtamoortiyaan      Pred: Faliya         
+Hindi: मुऐ                  Gold: mue                  Pred: Love Story     
+Hindi: भिड़ेंगे             Gold: bhidenge             Pred: Mue            
+Hindi: प्रॉस्पेक्स          Gold: prospex              Pred: Bhidenge       
+Hindi: ओवरऑल                Gold: overol               Pred: Fain           
+Hindi: तदाद                 Gold: tadaad               Pred: Overall        
+Hindi: क्यूडब्ल्यूवीजीए     Gold: qwvga                Pred: Fain           
+Hindi: फटही                 Gold: fatahee              Pred: QWVGA          
+Hindi: जुडने                Gold: judne                Pred: Fatahi         
+Hindi: माड़ीखेड़ा           Gold: maadhikhedhaa        Pred: Judne          
+Hindi: डब्ल्यूईएफ           Gold: dablyueeef           Pred: WEF            
+Hindi: एमपीडब्ल्यूपीपीसीएल  Gold: empeedablyoopeepeeseeel Pred: MPDWUPPCL      
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyuseees    Pred: PHWCS          
+Hindi: कद्रदानों            Gold: kadradaanon          Pred: English transliterations:
+Hindi: विज्ञानम             Gold: vigyaanam            Pred: shimat         
+Hindi: ज्योतिष्यशास्त्रों   Gold: jyotishyashastron    Pred: vigyanam       
+Hindi: अनशिदा               Gold: anshida              Pred: jyotishyashastron
+Hindi: इलेक्ट्रोमीटर        Gold: electrometer         Pred: anashida       
+Hindi: अंतडियां             Gold: antadiyan            Pred: elektrometer   
+Hindi: संयुक्तावस्था        Gold: sanyuktawasthaa      Pred: gadunga        
+Hindi: दिखायेे              Gold: dikhayee             Pred: shavyatra      
+Hindi: रक्तदाताओं           Gold: raktdaataaon         Pred: dvirukt        
+Hindi: ऐप्प                 Gold: aipp                 Pred: dhandhas       
+Hindi: क्रान्फ्रेंसिंग      Gold: cronfrensing         Pred: app            
+Hindi: वर्णनकर्ताओं         Gold: varnankartaaon       Pred: redcross       
+Hindi: दौबारा               Gold: daubara              Pred: pratap         
+Hindi: एक्सिसटेंस           Gold: existence            Pred: daubara        
+Hindi: विवरणःभारतीय         Gold: vivaranahbhaarateey  Pred: existence      
+Hindi: न्यूरोकेमिस्ट्री     Gold: nyoorokemistree      Pred: differed       
+Hindi: ओढ़कर                Gold: odhkar               Pred: neurochemistry 
+Hindi: श्रीकृष्णन           Gold: shreekrushnan        Pred: odhkar         
+Hindi: यूरोप्लास्ट          Gold: uroplast             Pred: grahankal      
+Hindi: ऑब्स्क्योरा          Gold: obskyora             Pred: europlast      
+Hindi: गुजारेंगे            Gold: gujaarenge           Pred: obskyora       
+Hindi: गिरिवासियों          Gold: girivaasiyon         Pred: gujarenge      
+Hindi: झाड़ा                Gold: jhada                Pred: girivasiyon    
+Hindi: बुड़ानियां           Gold: budaniyaan           Pred: jhada          
+Hindi: युसूगी               Gold: yusoogee             Pred: budaniyan      
+Hindi: थींं                 Gold: thin                 Pred: yusugi         
+Hindi: वर्गर                Gold: wargar               Pred: khulapan       
+Hindi: लपेटें               Gold: lapeten              Pred: antrit         
+Hindi: सिम्फरपोल            Gold: simpharapol          Pred: lapeten        
+Hindi: डब्ल्यूपीडी          Gold: dablyoopidi          Pred: simpharpol     
+Hindi: बीडब्ल्यूटीएस        Gold: beedablyooteees      Pred: BWTS           
+Hindi: ईआरजी                Gold: eeaarjee             Pred: ERG            
+Hindi: क्यूडब्ल्यूवीजीए     Gold: kyoodablyooveejeea   Pred: QWVGA          
+Hindi: आईआरडब्ल्यू          Gold: aaiaardablyu         Pred: IRW            
+Hindi: एनएसआईयू             Gold: enesaaeeyoo          Pred: NSIU           
+Hindi: नीऊ                  Gold: neeoo                Pred: niyu           
+Hindi: एनईयू                Gold: eneeyoo              Pred: NEU            
+Hindi: एमडब्ल्यूपी          Gold: mwp                  Pred: emdabalyupi    
+Hindi: एडब्ल्यूपी           Gold: edablyoopee          Pred: AWP            
+Hindi: बीएमडब्ल्यूएम        Gold: beeemdablyooem       Pred: BMWM           
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyooseees   Pred: PHWCS          
+Hindi: डीडब्ल्यूटी          Gold: deedablyootee        Pred: DWT            
+Hindi: डीडब्ल्यूटी          Gold: deedablyutee         Pred: DWT            
+Hindi: आईआरडब्ल्यू          Gold: aaiaardablyoo        Pred: IRW            
+Hindi: सीडीसीएल             Gold: seedeeseeel          Pred: CDCL           
+Hindi: सीडब्ल्यूआर          Gold: cwr                  Pred: seedabalyoodaar
+Hindi: एमडब्ल्यूपीएल        Gold: emdablyoopeeel       Pred: MMWPL          
+Hindi: डीडब्ल्यूएन          Gold: deedablyooen         Pred: DDWN           
+Hindi: क्यूआईपीएस           Gold: kyooaaeepeees        Pred: QIPS           

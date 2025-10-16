@@ -1,0 +1,74 @@
+Top-1 Accuracy (ACC): 0.2745
+Mean Precision:       0.9180
+Mean Recall:          0.8596
+Mean F1 (Fuzziness):  0.8834
+
+Words for which F1-score < 0.5:
+Hindi: एनसीआरडब्ल्यूसी      Gold: enseeaardablyusee    Pred: NCRWCS         
+Hindi: डीडब्ल्यूएन          Gold: deedablyuen          Pred: DWN            
+Hindi: एक्सएनएक्स           Gold: xnx                  Pred: eksaneks       
+Hindi: डब्ल्यूसीसीएल        Gold: wccl                 Pred: dabliyussiisiiel
+Hindi: एचजेडटीसी            Gold: echajedateesee       Pred: HZTC           
+Hindi: पीडब्ल्यूआईडी        Gold: peedablyooaaidee     Pred: PWD            
+Hindi: यूजी                 Gold: ug                   Pred: yuji           
+Hindi: एनडब्ल्यूसी          Gold: endablyoosee         Pred: NWC            
+Hindi: एआईआरटीयू            Gold: eaaiaartiyoo         Pred: AIRTU          
+Hindi: आईआरपीटीसी           Gold: aaeeaarpitisi        Pred: IRPTC          
+Hindi: बीआईआईटीएम           Gold: beeaaeeaaeeteeem     Pred: B I I T M      
+Hindi: डीडब्ल्यूएफ          Gold: dwf                  Pred: didablf        
+Hindi: एनडब्ल्यूसी          Gold: endablyusee          Pred: NWC            
+Hindi: आईआरपीटीसी           Gold: aaiaarpitisi         Pred: IRPTC          
+Hindi: डब्ल्यूएचएल          Gold: dablyooechel         Pred: WHL            
+Hindi: पीडब्ल्यूटी          Gold: peedablyootee        Pred: PWT            
+Hindi: एनसीआरडब्ल्यूसी      Gold: enseeaardablyoosee   Pred: NCRWC          
+Hindi: डब्ल्यूईएफ           Gold: dablyueeef           Pred: WEF            
+Hindi: एमपीडब्ल्यूपीपीसीएल  Gold: empeedablyoopeepeeseeel Pred: MPDWPPCL       
+Hindi: एमडब्ल्यूपीएल        Gold: emdablyupiel         Pred: MWPL           
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyuseees    Pred: P-H-W-C-S      
+Hindi: डब्ल्यूपीडी          Gold: dablyoopidi          Pred: wupedee        
+Hindi: बीडब्ल्यूटीएस        Gold: beedablyooteees      Pred: BWTS           
+Hindi: ईआरजी                Gold: eeaarjee             Pred: ERG            
+Hindi: ऑक्सीज               Gold: oxyg                 Pred: aakseej        
+Hindi: आईआरडब्ल्यू          Gold: aaiaardablyu         Pred: IRW            
+Hindi: एनएसआईयू             Gold: enesaaeeyoo          Pred: NSIU           
+Hindi: नीऊ                  Gold: neeoo                Pred: niyu           
+Hindi: एनईयू                Gold: eneeyoo              Pred: NEU            
+Hindi: बीडब्ल्यूटीएस        Gold: bwts                 Pred: beedablyooties 
+Hindi: ईआरजी                Gold: erg                  Pred: eearjee        
+Hindi: सीडब्ल्यू            Gold: cw                   Pred: seedabliyu     
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyooseees   Pred: PHWCS          
+Hindi: डीडब्ल्यूटी          Gold: deedablyootee        Pred: DWT            
+Hindi: डीडब्ल्यूटी          Gold: deedablyutee         Pred: D W T          
+Hindi: प्रेमेश्वर           Gold: premeshwar           Pred: English transliterations:
+Hindi: नवदंपत्तियों         Gold: navadampattiyon      Pred: Kotedar        
+Hindi: पिट्यूनिया           Gold: pityooniyaa          Pred: Bahumaan       
+Hindi: शंकचराचार्य          Gold: shankacharachaarya   Pred: Parisamvad     
+Hindi: पुरवासियों           Gold: purvaasiyon          Pred: Shankacharyacharya
+Hindi: लडने                 Gold: ladne                Pred: Pakadkar       
+Hindi: राजस्थानवासियों      Gold: raajsthanwasiyon     Pred: Ladne          
+Hindi: बीताने               Gold: beetane              Pred: Rajasthanvasiyon
+Hindi: आईआरडब्ल्यू          Gold: aaiaardablyoo        Pred: Activa         
+Hindi: राखणौ                Gold: raakhnau             Pred: IRW            
+Hindi: विश्वासघातकों        Gold: vishwaasghaatakon    Pred: Dilaayega      
+Hindi: दमाए                 Gold: damae                Pred: Shasanadhikariyon
+Hindi: पूर्णमासियों         Gold: poornamaasiyon       Pred: Interview      
+Hindi: कार्सीनोजेनिक        Gold: kaarseenojenik       Pred: Shrisadguru    
+Hindi: गुठनी                Gold: guthanee             Pred: Pratinidhikari 
+Hindi: फ्लेवनाइड्स          Gold: phlewanaaids         Pred: Guthni         
+Hindi: भौतिकवादियों         Gold: bhautikwaadiyon      Pred: Flavonoids     
+Hindi: दुष्टतापूर्वक        Gold: dushtapurvak         Pred: Insani         
+Hindi: जिदंगी               Gold: jindagi              Pred: Dushtatapurvak 
+Hindi: आदिवादियों           Gold: aadiwadiyon          Pred: Jindagi        
+Hindi: इच्छाचारी            Gold: ichchhacharee        Pred: Varnavyavasthavaadiyon
+Hindi: देवमूर्तियों         Gold: devmoortiyon         Pred: Icchachaari    
+Hindi: तावीज                Gold: taavij               Pred: Pratigyapurn   
+Hindi: सडक़ें               Gold: sadaken              Pred: Kanlog         
+Hindi: विज्ञानवादियों       Gold: vigyaanwaadiyon      Pred: Sadken         
+Hindi: चालने                Gold: chaalane             Pred: Upyogitavaadiyon
+Hindi: डब्ल्यूएचएल          Gold: whl                  Pred: dabalyuH L     
+Hindi: सीडीसीएल             Gold: seedeeseeel          Pred: CDCL           
+Hindi: डब्ल्यूजीपीएल        Gold: wgpl                 Pred: dablyuGPL      
+Hindi: एमडब्ल्यूपीएल        Gold: emdablyoopeeel       Pred: MWPL           
+Hindi: डीडब्ल्यूएन          Gold: deedablyooen         Pred: DDWN           
+Hindi: क्यूआईपीएस           Gold: kyooaaeepeees        Pred: QIPS           
+Hindi: लेसी                 Gold: lacey                Pred: lesi           

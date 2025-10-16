@@ -1,0 +1,45 @@
+Top-1 Accuracy (ACC): 0.2762
+Mean Precision:       0.9214
+Mean Recall:          0.8649
+Mean F1 (Fuzziness):  0.8879
+
+Words for which F1-score < 0.5:
+Hindi: एनसीआरडब्ल्यूसी      Gold: enseeaardablyusee    Pred: NCRWCS         
+Hindi: डीडब्ल्यूएन          Gold: deedablyuen          Pred: DWN            
+Hindi: एचजेडटीसी            Gold: echajedateesee       Pred: HZTC           
+Hindi: पीडब्ल्यूआईडी        Gold: peedablyooaaidee     Pred: PIDW           
+Hindi: यूजी                 Gold: ug                   Pred: yuji           
+Hindi: डब्ल्यूआईएन          Gold: win                  Pred: dablyoo aai en 
+Hindi: एआईआरटीयू            Gold: eaaiaartiyoo         Pred: AIRTU          
+Hindi: एलऐंडटी              Gold: elendtee             Pred: L&T            
+Hindi: आईआरपीटीसी           Gold: aaeeaarpitisi        Pred: IRPTC          
+Hindi: बीआईआईटीएम           Gold: beeaaeeaaeeteeem     Pred: BIITM          
+Hindi: एनडब्ल्यूसी          Gold: endablyusee          Pred: NWC            
+Hindi: ऑक्सीज               Gold: oxys                 Pred: oksij          
+Hindi: सीडब्ल्यूएस          Gold: cws                  Pred: si-dabluyes    
+Hindi: डब्ल्यूपीडी          Gold: dablyoopeedee        Pred: WPID           
+Hindi: आईआरपीटीसी           Gold: aaiaarpitisi         Pred: IRPTC          
+Hindi: एनआरडीडब्ल्यूपी      Gold: nrdwp                Pred: enaradyudablyupi
+Hindi: क्यूडब्ल्यूवीजीए     Gold: qwvga                Pred: kyudablyuvijiye
+Hindi: डब्ल्यूईएफ           Gold: dablyueeef           Pred: WEF            
+Hindi: एमपीडब्ल्यूपीपीसीएल  Gold: empeedablyoopeepeeseeel Pred: MPDWPPCL       
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyuseees    Pred: PHWCS          
+Hindi: डब्ल्यूपीडी          Gold: dablyoopidi          Pred: wpd            
+Hindi: बीडब्ल्यूटीएस        Gold: beedablyooteees      Pred: BWTS           
+Hindi: ईआरजी                Gold: eeaarjee             Pred: ERG            
+Hindi: क्यूडब्ल्यूवीजीए     Gold: kyoodablyooveejeea   Pred: QWVGA          
+Hindi: आईआरडब्ल्यू          Gold: aaiaardablyu         Pred: IRW            
+Hindi: एनएसआईयू             Gold: enesaaeeyoo          Pred: NSIU           
+Hindi: एनईयू                Gold: eneeyoo              Pred: NEU            
+Hindi: बीडब्ल्यूटीएस        Gold: bwts                 Pred: bidabluyutiess 
+Hindi: सीडब्ल्यू            Gold: cw                   Pred: seedabliyu     
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyooseees   Pred: PHDWCS         
+Hindi: डीडब्ल्यूटी          Gold: deedablyootee        Pred: DWT            
+Hindi: डीडब्ल्यूटी          Gold: deedablyutee         Pred: DWT            
+Hindi: आईआरडब्ल्यू          Gold: aaiaardablyoo        Pred: IRW            
+Hindi: सीडीसीएल             Gold: seedeeseeel          Pred: CDCL           
+Hindi: डब्ल्यूपीडी          Gold: dablyupeedi          Pred: wp d           
+Hindi: एमडब्ल्यूपीएल        Gold: emdablyoopeeel       Pred: mwpl           
+Hindi: डीडब्ल्यूएन          Gold: deedablyooen         Pred: DDWN           
+Hindi: क्यूआईपीएस           Gold: kyooaaeepeees        Pred: QIPS           
+Hindi: लेसी                 Gold: lacey                Pred: lesi           

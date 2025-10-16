@@ -1,0 +1,58 @@
+Top-1 Accuracy (ACC): 0.3592
+Mean Precision:       0.9115
+Mean Recall:          0.8927
+Mean F1 (Fuzziness):  0.8983
+
+Words for which F1-score < 0.5:
+Hindi: एनसीआरडब्ल्यूसी      Gold: enseeaardablyusee    Pred: ncrbduly       
+Hindi: डब्ल्यूसीसीएल        Gold: wccl                 Pred: dbulciele      
+Hindi: एचजेडटीसी            Gold: echajedateesee       Pred: hjdtc          
+Hindi: ईडब्लूएस             Gold: ews                  Pred: eadbluse       
+Hindi: आईआरडब्ल्यू          Gold: irw                  Pred: irdblue        
+Hindi: यूजी                 Gold: ug                   Pred: uji            
+Hindi: डब्ल्यूआईएन          Gold: win                  Pred: dbulin         
+Hindi: एआईआरटीयू            Gold: eaaiaartiyoo         Pred: airtu          
+Hindi: लफ्ज                 Gold: laphj                Pred: lufz           
+Hindi: आईआरपीटीसी           Gold: aaeeaarpitisi        Pred: irptcc         
+Hindi: बीआईआईटीएम           Gold: beeaaeeaaeeteeem     Pred: biitm          
+Hindi: डीडब्ल्यूएफ          Gold: dwf                  Pred: ddublf         
+Hindi: एनडब्ल्यूसी          Gold: nwc                  Pred: andblucy       
+Hindi: क़ि                  Gold: ki                   Pred: qui            
+Hindi: सीडब्ल्यूएस          Gold: cws                  Pred: seadbluse      
+Hindi: डब्ल्यूएचएल          Gold: dablyooechel         Pred: dbule          
+Hindi: एनसीआरडब्ल्यूसी      Gold: enseeaardablyoosee   Pred: ncrbduly       
+Hindi: क्यूडब्ल्यूवीजीए     Gold: qwvga                Pred: qudblogieye    
+Hindi: एमपीडब्ल्यूपीपीसीएल  Gold: empeedablyoopeepeeseeel Pred: mpddlpcl       
+Hindi: पीडब्ल्यूआई          Gold: pwi                  Pred: pdebuia        
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyuseees    Pred: phdbsc         
+Hindi: डीओडब्ल्यू           Gold: dow                  Pred: dodblue        
+Hindi: पीडब्ल्यूटी          Gold: pwt                  Pred: peedbulity     
+Hindi: हुक़ूक़              Gold: hukhookh             Pred: huquq          
+Hindi: यूजी                 Gold: yoojee               Pred: uji            
+Hindi: एनएसआईयू             Gold: enesaaeeyoo          Pred: nsiu           
+Hindi: एनईयू                Gold: eneeyoo              Pred: neu            
+Hindi: एमडब्ल्यूपी          Gold: mwp                  Pred: madblupy       
+Hindi: डब्ल्यूपीडी          Gold: wpd                  Pred: doblupedy      
+Hindi: एनडब्ल्यूएस          Gold: nws                  Pred: nadbluse       
+Hindi: बीडब्ल्यूटीएस        Gold: bwts                 Pred: beadbluties    
+Hindi: सीडब्ल्यू            Gold: cw                   Pred: seadblue       
+Hindi: पीएचडब्ल्यूसीएस      Gold: peeechdablyooseees   Pred: phdbsc         
+Hindi: डीडब्ल्यूएन          Gold: dwn                  Pred: ddeblune       
+Hindi: सीडीसीएल             Gold: seedeeseeel          Pred: ccdl           
+Hindi: सीडब्ल्यूआर          Gold: cwr                  Pred: seedblur       
+Hindi: डीडब्ल्यूटी          Gold: dwt                  Pred: deadbluty      
+Hindi: डीएलडब्ल्यू          Gold: dlw                  Pred: dldblu         
+Hindi: एडब्ल्यूपी           Gold: awp                  Pred: adblupy        
+Hindi: क्यूआईपीएस           Gold: kyooaaeepeees        Pred: qips           
+Hindi: ओक्स                 Gold: oaks                 Pred: ox             
+Hindi: ईए                   Gold: ia                   Pred: eae            
+Hindi: श्योर                Gold: sure                 Pred: shyor          
+Hindi: एयरवे                Gold: eyarave              Pred: airway         
+Hindi: डेवी                 Gold: dewey                Pred: davi           
+Hindi: फूस                  Gold: phus                 Pred: foose          
+Hindi: ती                   Gold: ti                   Pred: tee            
+Hindi: एजे                  Gold: aj                   Pred: aye            
+Hindi: झ                    Gold: jh                   Pred: jaa            
+Hindi: फाफ                  Gold: phaaph               Pred: faff           
+Hindi: डेजी                 Gold: daisy                Pred: deji           
+Hindi: ऐल                   Gold: el                   Pred: ail            
