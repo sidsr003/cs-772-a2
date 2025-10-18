@@ -34,7 +34,7 @@ def transliterate_batch_with_gpt(batch, temp=1.0, top_p=1.0):
         "You are a transliteration assistant.\n"
         "Transliterate each of the following Hindi (Devanagari) words into English (Roman script), "
         "preserving pronunciation.\n"
-        "Do not use accents on the."
+        "Do not use accents on them."
         "Return only the English transliterations, one per line, numbered exactly the same.\n\n"
         f"{joined}\n\nEnglish transliterations:\n"
     )
